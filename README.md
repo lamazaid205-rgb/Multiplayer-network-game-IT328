@@ -35,6 +35,4 @@ Developed for academic purposes as part of the Computer Networks course.
 
 ![Game Screen](assets/game-screen.png)
 ## 🚀 Run the Project
-
-```bash
-java -jar NetWorkPhase1-1.0-SNAPSHOT.jar
+Download the executable JAR file from the Releases section.
