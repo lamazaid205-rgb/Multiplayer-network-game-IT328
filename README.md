@@ -7,13 +7,13 @@ A multiplayer game developed for the Computer Networks course using Java and TCP
 ## 📸 Screenshots
 
 ### Connection Interface
-![Main](asset/الاتصال.png)
+![Main](assets/الاتصال.png)
 
 ### Gameplay
-![Gameplay](asset/الخلية.png)
+![Gameplay](assets/الخلية.png)
 
 ### Winner Screen
-![Winner](asset/الفوز.png)
+![Winner](assets/الفوز.png)
 
 ---
 
